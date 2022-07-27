@@ -7,4 +7,4 @@
 קישור לסקריפט:
 [link](https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Yaproj6/%D7%9E%D7%A2%D7%A7%D7%91-%D7%9C%D7%9E%D7%99%D7%93%D7%94.js)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s7bRxBhbPxM&list=RDs7bRxBhbPxM&start_radio=1/0.jpg)](https://www.youtube.com/watch?v=s7bRxBhbPxM&list=RDs7bRxBhbPxM&start_radio=1)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P8sFyWh1d3g/0.jpg)](https://www.youtube.com/watch?v=P8sFyWh1d3g)
