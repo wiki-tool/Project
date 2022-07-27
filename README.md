@@ -15,11 +15,11 @@
 
 ## מסמכים
 
-[a](DesignDescription.pdf)
+[מסמך עיצוב](DesignDescription.pdf)
 
-[b](ProjectVision.pdf)
+[חזון הפרויקט](ProjectVision.pdf)
 
-[c](RequirmentsDocument.pdf)
+[מסמך דרישות](RequirmentsDocument.pdf)
 
 
 
