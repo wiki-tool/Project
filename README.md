@@ -8,10 +8,10 @@
 
 .
 
-**כלים שעבדנו איתם:**:
-- jQuery
-- LocalStorage
-- MediaWiki API
+**כלים שעבדנו איתם:**
+- **jQuery**
+- **LocalStorage**
+- **MediaWiki API**
 
 
 
