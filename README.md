@@ -13,6 +13,9 @@
 - **LocalStorage**
 - **MediaWiki API**
 
+[a](DesignDescription.pdf)
+[b](ProjectVision.pdf)
+[c](RequirmentsDocument.pdf)
 
 
 **קישור לסקריפט:**
