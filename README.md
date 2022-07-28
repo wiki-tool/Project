@@ -1,6 +1,7 @@
 # A Wikipedia add-on for learn monitoring
+![This is an image](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-he.svg)
 
-![This is an image](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia.png)       ![This is an image](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-he.svg)  
+![This is an image](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia.png)         
 
 **אתר "ויקיפדיה" תופס מקום חשוב בספריה הווירטואלית של כל משתמש בסביבת הרשת. לא פעם למדנו נושא באופן שטחי והיינו רוצים ללמוד אותו בצורה עמוקה ומקיפה המבוקרת על ידינו. התוסף שנבנה הוא כלי מדידה המאפשר מעקב אחר קצב הלמידה בתכנים הנלמדים באתר תחת הקטגוריות השונות.**
 
