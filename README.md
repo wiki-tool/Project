@@ -1,5 +1,5 @@
 # A Wikipedia add-on for learn monitoring
-![This is an image](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-he.svg)
+![דדד](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-he.svg)
 
 ![This is an image](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia.png)         
 
