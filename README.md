@@ -1,5 +1,4 @@
 # A Wikipedia add-on for learn monitoring
-![a](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-he.svg)
 
 ![b](https://he.wikipedia.org/static/images/mobile/copyright/wikipedia.png)         
 
